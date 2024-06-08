@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #fff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+    color: #000;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #d0b200;
+}
+
+.banner-section-bg-container {
+    background-color: #f8f9fa;
+    padding: 100px 0;
+}
+
+.banner-heading {
+    font-size: 48px;
+    color: #333;
+}
+
+.banner-caption {
+    color: #555;
+}
+
+.custom-button {
+    background-color: #d0b200;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-button:hover {
+    background-color: #b39c00;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    border: 2px solid #d0b200;
+    background-color: transparent;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.custom-outline-button:hover {
+    background-color: #f8f9fa;
+}
+
+.wcu-section {
+    background-color: #fff;
+    padding: 50px 0;
+}
+
+.wcu-section-heading {
+    font-size: 36px;
+    color: #333;
+}
+
+.wcu-section-description {
+    color: #555;
+}
+
+.wcu-card {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.wcu-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.wcu-card-image {
+    max-width: 100%;
+}
+
+.menu-section-heading {
+    font-size: 36px;
+    color: #333;
+}
+
+.menu-item-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.menu-item-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.menu-item-image {
+    max-width: 100%;
+}
+
+.menu-card-title {
+    font-size: 24px;
+    color: #333;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu-item-link:hover {
+    text-decoration: underline;
+}
+
+.healthy-food-section-heading {
+    font-size: 36px;
+    color: #333;
+}
+
+.healthy-food-section-description {
+    color: #555;
+}
+
+.delivery-and-payment-section-heading {
+    font-size: 36px;
+    color: #333;
+}
+
+.delivery-and-payment-section-description {
+    color: #555;
+}
+
+.payment-card-img {
+    max-width: 50px;
+    margin-right: 10px;
+}
+
+.thanking-customers-section-heading {
+    font-size: 36px;
+    color: #333;
+}
+
+.thanking-customers-section-description {
+    color: #555;
+}
+
+.thanking-customers-section-modal-title {
+    color: #333;
+}
+
+.thanking-customers-section-img {
+    max-width: 100%;
+}
+
+.follow-us-section-heading {
+    font-size: 36px;
+    color: #333;
+}
+
+.follow-us-icon-container {
+    font-size: 36px;
+    color: #d0b200;
+    margin: 0 10px;
+}
+
+.footer-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+.footer-section-mail-id {
+    font-size: 24px;
+    color: #333;
+}
+
+.footer-section-address {
+    color: #555;
+}
